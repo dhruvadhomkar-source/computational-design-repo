@@ -1,0 +1,59 @@
+{
+  "bm25": {
+    "hit@1": 0.2631578947368421,
+    "hit@5": 0.5,
+    "mrr": 0.39328546809717924,
+    "ms_per_query": 1.3467476578924968,
+    "misses": [
+      "What smoke alarm system does every new home need?",
+      "What counts as a large house for fire alarm purposes?",
+      "How big does an emergency escape window need to be?",
+      "Can I keep historic doors instead of replacing them for fire safety?",
+      "When must a block of flats have two staircases?",
+      "Can the only staircase serving a flat be outside the building?",
+      "Are terraced houses treated as separate buildings for fire spread?",
+      "Does installing sprinklers let me build closer to the site boundary?",
+      "Can lifts be used to evacuate residents of flats, and how must they be arranged?",
+      "How wide do doors and hallways need to be so visitors can get to the WC?",
+      "What if a level route to the main entrance of an accessible home isn't possible?",
+      "How much clear space is needed between a bedroom door and the window in an accessible home?",
+      "What standards apply to communal lifts serving accessible flats?",
+      "Who needs to be told when optional access requirements apply to a project?",
+      "How wide should corridors be in non-domestic buildings?",
+      "Is a stair still needed if a platform lift is installed?",
+      "How should handrails be designed for people who find steps difficult?",
+      "Where should accessible hotel bedrooms be located in the building?",
+      "Where can I find guidance on wheelchair spaces in stadiums?"
+    ]
+  },
+  "dense": {
+    "hit@1": 0.5,
+    "hit@5": 0.868421052631579,
+    "mrr": 0.6564235472130209,
+    "ms_per_query": 64.85250889473767,
+    "misses": [
+      "What counts as a large house for fire alarm purposes?",
+      "Can a steeply sloping site have steps up to the front door?",
+      "What if a level route to the main entrance of an accessible home isn't possible?",
+      "What standards apply to communal lifts serving accessible flats?",
+      "Is a stair still needed if a platform lift is installed?"
+    ]
+  },
+  "hybrid": {
+    "hit@1": 0.39473684210526316,
+    "hit@5": 0.7631578947368421,
+    "mrr": 0.5528397771818824,
+    "ms_per_query": 56.05885944736967,
+    "misses": [
+      "What smoke alarm system does every new home need?",
+      "What counts as a large house for fire alarm purposes?",
+      "How big does an emergency escape window need to be?",
+      "When must a block of flats have two staircases?",
+      "Are terraced houses treated as separate buildings for fire spread?",
+      "How wide do doors and hallways need to be so visitors can get to the WC?",
+      "What if a level route to the main entrance of an accessible home isn't possible?",
+      "Who needs to be told when optional access requirements apply to a project?",
+      "Is a stair still needed if a platform lift is installed?"
+    ]
+  }
+}

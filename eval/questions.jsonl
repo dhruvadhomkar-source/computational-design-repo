@@ -1,0 +1,38 @@
+{"q": "What smoke alarm system does every new home need?", "expected": ["ADB-V1:1.1"]}
+{"q": "What counts as a large house for fire alarm purposes?", "expected": ["ADB-V1:1.5"]}
+{"q": "What grade of alarm system does a big two-storey house need?", "expected": ["ADB-V1:1.6"]}
+{"q": "In student accommodation arranged as cluster flats, when does each flat need its own fire detection?", "expected": ["ADB-V1:1.11"]}
+{"q": "Which rooms in a house need an escape window or a route to a hall leading outside?", "expected": ["ADB-V1:2.1", "ADB-V1:2.2"]}
+{"q": "How big does an emergency escape window need to be?", "expected": ["ADB-V1:2.10"]}
+{"q": "Rules for ventilation systems that recirculate air in a house with an upper floor above 4.5m", "expected": ["ADB-V1:2.8"]}
+{"q": "Can I keep historic doors instead of replacing them for fire safety?", "expected": ["ADB-V1:2.22"]}
+{"q": "When must a block of flats have two staircases?", "expected": ["ADB-V1:3.30"]}
+{"q": "Can the only staircase serving a flat be outside the building?", "expected": ["ADB-V1:3.69"]}
+{"q": "Are gas meters allowed inside a protected stair?", "expected": ["ADB-V1:3.83"]}
+{"q": "Are terraced houses treated as separate buildings for fire spread?", "expected": ["ADB-V1:5.5"]}
+{"q": "Above what height do apartment blocks need sprinklers?", "expected": ["ADB-V1:7.4"]}
+{"q": "How should a shaft carrying gas pipes be ventilated?", "expected": ["ADB-V1:7.28"]}
+{"q": "Can I put cavity barriers above a compartment wall instead of taking the wall up to the roof?", "expected": ["ADB-V1:8.4"]}
+{"q": "What is a metal composite material panel in the regulations?", "expected": ["ADB-V1:10.12"]}
+{"q": "Does installing sprinklers let me build closer to the site boundary?", "expected": ["ADB-V1:11.21"]}
+{"q": "What roof covering rating does 4mm plain glass in a rooflight get?", "expected": ["ADB-V1:12.8"]}
+{"q": "When does a building need wet rather than dry fire mains?", "expected": ["ADB-V1:14.6"]}
+{"q": "Can lifts be used to evacuate residents of flats, and how must they be arranged?", "expected": ["ADB-V1:3.29"]}
+{"q": "Does the accessible approach route rule apply if there is no parking on the plot?", "expected": ["ADM-V1:1.2"]}
+{"q": "Can a steeply sloping site have steps up to the front door?", "expected": ["ADM-V1:1.4"]}
+{"q": "How wide do doors and hallways need to be so visitors can get to the WC?", "expected": ["ADM-V1:1.15"]}
+{"q": "What if a level route to the main entrance of an accessible home isn't possible?", "expected": ["ADM-V1:2.7", "ADM-V1:1.5"]}
+{"q": "How much clear space is needed between a bedroom door and the window in an accessible home?", "expected": ["ADM-V1:2.25"]}
+{"q": "What standards apply to communal lifts serving accessible flats?", "expected": ["ADM-V1:3.16"]}
+{"q": "When do the wheelchair user dwelling standards apply?", "expected": ["ADM-V1:3.18"]}
+{"q": "Who needs to be told when optional access requirements apply to a project?", "expected": ["ADM-V1:0.6"]}
+{"q": "How wide should corridors be in non-domestic buildings?", "expected": ["ADM-V2:3.11"]}
+{"q": "Should doors that open towards a corridor be recessed?", "expected": ["ADM-V2:3.14"]}
+{"q": "Is a stair still needed if a platform lift is installed?", "expected": ["ADM-V2:3.19"]}
+{"q": "How should handrails be designed for people who find steps difficult?", "expected": ["ADM-V2:1.34"]}
+{"q": "What makes a bar counter in a restaurant accessible to wheelchair users?", "expected": ["ADM-V2:4.16"]}
+{"q": "Where should accessible hotel bedrooms be located in the building?", "expected": ["ADM-V2:4.18"]}
+{"q": "How long does an entrance lobby with double doors need to be?", "expected": ["ADM-V2:2.29"]}
+{"q": "Where should toilets be placed in multi-storey buildings to help people find them?", "expected": ["ADM-V2:5.2"]}
+{"q": "Where can I find guidance on wheelchair spaces in stadiums?", "expected": ["ADM-V2:4.11"]}
+{"q": "What surface should external access routes to entrances have?", "expected": ["ADM-V2:1.9"]}
