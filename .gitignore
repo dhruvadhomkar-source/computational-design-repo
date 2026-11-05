@@ -1,0 +1,4 @@
+# Source PDFs are downloaded by scripts/download_sources.sh, not committed
+data/raw/
+__pycache__/
+.venv/
